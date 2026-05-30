@@ -1,0 +1,8 @@
+[user]
+	email = rkrasu@gmail.com
+	name = NeburSp5
+[color]
+	ui = auto
+[core]
+	excludefile = /home/nebur/.gitignore_global
+	excludesfile = /home/nebur/.gitignore_global
